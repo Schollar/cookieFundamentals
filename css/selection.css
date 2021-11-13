@@ -1,0 +1,25 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+
+#chosen_selection {
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+  row-gap: 50px;
+}
+
+#page_container {
+  display: -ms-grid;
+  display: grid;
+  margin-top: 135px;
+  row-gap: 50px;
+}
+
+button {
+  -ms-grid-column-align: center;
+      justify-self: center;
+  width: 300px;
+}
+/*# sourceMappingURL=selection.css.map */
