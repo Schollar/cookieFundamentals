@@ -11,6 +11,7 @@ img {
 }
 
 #page_container {
+  place-items: center;
   display: -ms-grid;
   display: grid;
   margin-top: 135px;
@@ -18,8 +19,6 @@ img {
 }
 
 button {
-  -ms-grid-column-align: center;
-      justify-self: center;
   width: 300px;
 }
 /*# sourceMappingURL=selection.css.map */

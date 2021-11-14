@@ -10,12 +10,12 @@ img {
 }
 
 #page_container {
+    place-items: center;
     display: grid;
     margin-top: 135px;
     row-gap: 50px;
 }
 
 button {
-    justify-self: center;
     width: 300px;
 }
